@@ -3,7 +3,7 @@ pandas
 tensorflow-addons
 opencv-python
 tqdm
-tensorflow
+tensorflow[and-cuda]==2.15.1
 matplotlib
 pytest
 jupyter
